@@ -1,50 +1,96 @@
-# Carolina Medina Suarez - Portfolio# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Carolina Medina Suarez - Portfolio# Carolina Medina Suarez - Portfolio# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
 
 
 
-## 🤖 Ingeniera en Inteligencia Artificial## A minimal portfolio template for Developers!
+## 🤖 Ingeniera en Inteligencia Artificial
 
 
+
+Bienvenido a mi portfolio profesional. Soy una apasionada ingeniera en IA especializada en Machine Learning, Deep Learning y desarrollo de soluciones innovadoras.## 🤖 Ingeniera en Inteligencia Artificial## A minimal portfolio template for Developers!
+
+
+
+### 🌐 **Ver Portfolio en Vivo**
+
+**👉 [carolina-ms25.github.io](https://carolina-ms25.github.io)** ✨
 
 Bienvenido a mi portfolio profesional. Soy una apasionada ingeniera en IA especializada en Machine Learning, Deep Learning y desarrollo de soluciones innovadoras.<h2 align="center">
 
+### 🚀 **Características del Portfolio**
+
   <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
 
-### 🌐 **Ver Portfolio en Vivo**  <br>
+- **🔬 Perfil Profesional**: Especializada en IA y Machine Learning
 
-**👉 [carolina-ms25.github.io](https://carolina-ms25.github.io)**</h2>
+- **💼 Experiencia**: Proyectos reales de sistemas de recomendación, análisis de sentimientos y detección de fraude### 🌐 **Ver Portfolio en Vivo**  <br>
+
+- **🎓 Educación**: Ingeniería en IA + Certificaciones de Google y AWS
+
+- **📝 Blog**: Artículos sobre IA, ética y optimización de modelos**👉 [carolina-ms25.github.io](https://carolina-ms25.github.io)**</h2>
+
+- **🛠️ Habilidades**: Python, TensorFlow, PyTorch, AWS, Docker y más
 
 
+
+### 📊 **Secciones Incluidas**
 
 ### 🚀 **Características del Portfolio**## Features
 
-
-
-- **🔬 Perfil Profesional**: Especializada en IA y Machine Learning⚡️ Modern UI Design + Reveal Animations\
-
-- **💼 Experiencia**: Proyectos reales de sistemas de recomendación, análisis de sentimientos y detección de fraude⚡️ One Page Layout\
-
-- **🎓 Educación**: Ingeniería en IA + Certificaciones de Google y AWS⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-
-- **📝 Blog**: Artículos sobre IA, ética y optimización de modelos⚡️ Fully Responsive\
-
-- **🛠️ Habilidades**: Python, TensorFlow, PyTorch, AWS, Docker y más⚡️ Valid HTML5 & CSS3\
-
-⚡️ Optimized with Parcel\
-
-### 📊 **Secciones Incluidas**⚡️ Well organized documentation
-
-
-
-- ✨ **Hero**: Introducción personalTo view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+- ✨ **Hero**: Introducción personal
 
 - 👩‍💼 **Acerca de mí**: Perfil profesional en IA
 
-- 🛠️ **Habilidades**: Tecnologías y herramientas---
+- 🛠️ **Habilidades**: Tecnologías y herramientas
 
-- 🚀 **Proyectos**: Portfolio de trabajos en IA
+- 🚀 **Proyectos**: Portfolio de trabajos en IA- **🔬 Perfil Profesional**: Especializada en IA y Machine Learning⚡️ Modern UI Design + Reveal Animations\
 
-- 💼 **Experiencia**: Historial laboral## Why do you need a portfolio? ☝️
+- 💼 **Experiencia**: Historial laboral
+
+- 🎓 **Estudios**: Formación y certificaciones- **💼 Experiencia**: Proyectos reales de sistemas de recomendación, análisis de sentimientos y detección de fraude⚡️ One Page Layout\
+
+- 📚 **Blog**: Artículos y publicaciones
+
+- 📧 **Contacto**: Información de contacto- **🎓 Educación**: Ingeniería en IA + Certificaciones de Google y AWS⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
+
+
+
+### 🔧 **Tecnologías Utilizadas**- **📝 Blog**: Artículos sobre IA, ética y optimización de modelos⚡️ Fully Responsive\
+
+
+
+- **Frontend**: HTML5, SCSS, JavaScript- **🛠️ Habilidades**: Python, TensorFlow, PyTorch, AWS, Docker y más⚡️ Valid HTML5 & CSS3\
+
+- **Framework CSS**: Bootstrap 5
+
+- **Build Tool**: Parcel⚡️ Optimized with Parcel\
+
+- **Deploy**: GitHub Pages + GitHub Actions
+
+- **Animaciones**: ScrollReveal, Vanilla Tilt### 📊 **Secciones Incluidas**⚡️ Well organized documentation
+
+
+
+### 📱 **Totalmente Responsive**
+
+
+
+El portfolio está optimizado para todos los dispositivos: desktop, tablet y móvil.- ✨ **Hero**: Introducción personalTo view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+
+
+
+### 🚀 **Deploy Status**- 👩‍💼 **Acerca de mí**: Perfil profesional en IA
+
+
+
+[![Deploy Status](https://github.com/carolina-ms25/carolina-ms25.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/carolina-ms25/carolina-ms25.github.io/actions/workflows/deploy.yml)- 🛠️ **Habilidades**: Tecnologías y herramientas---
+
+
+
+---- 🚀 **Proyectos**: Portfolio de trabajos en IA
+
+
+
+*Portfolio desarrollado para showcasing de habilidades en Inteligencia Artificial y desarrollo web.*- 💼 **Experiencia**: Historial laboral## Why do you need a portfolio? ☝️
 
 - 🎓 **Estudios**: Formación y certificaciones
 

@@ -1,0 +1,95 @@
+// Experience Section
+#experience {
+  background-color: $primary-color;
+  color: $white-color;
+  margin-top: -15rem;
+  padding-top: 20rem;
+
+  @include respond(tab-land) {
+    margin-top: -10rem;
+    padding-top: 15rem;
+  }
+
+  @include respond(tab-port) {
+    margin-top: 0;
+    padding-top: 5rem;
+  }
+
+  .experience-wrapper {
+    margin-top: 3rem;
+
+    .experience-item {
+      margin-bottom: 4rem;
+
+      @include respond(phone) {
+        margin-bottom: 2rem;
+      }
+    }
+
+    &__date {
+      text-align: center;
+
+      @include respond(tab-port) {
+        text-align: left;
+        margin-bottom: 1rem;
+      }
+
+      .experience-date {
+        font-size: $small-font-size;
+        font-weight: bold;
+        background-color: rgba($white-color, 0.2);
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        display: inline-block;
+      }
+    }
+
+    &__info {
+      @include respond(tab-port) {
+        margin-left: 0;
+      }
+    }
+
+    &__title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+      font-size: $mid-font-size;
+
+      @include respond(phone) {
+        font-size: 2rem;
+      }
+    }
+
+    &__company {
+      font-size: $default-font-size;
+      margin-bottom: 1.5rem;
+      color: lighten($white-color, 10%);
+      font-weight: 500;
+    }
+
+    &__description {
+      margin-bottom: 1.5rem;
+      color: lighten($white-color, 5%);
+    }
+
+    &__achievements {
+      list-style: none;
+      padding-left: 0;
+
+      li {
+        position: relative;
+        padding-left: 2rem;
+        margin-bottom: 0.8rem;
+        color: lighten($white-color, 5%);
+
+        &:before {
+          content: "▶";
+          position: absolute;
+          left: 0;
+          color: $secondary-color;
+          font-size: 0.8rem;
+        }
+      }
+    }
+  }
+}

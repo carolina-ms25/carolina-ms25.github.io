@@ -1,0 +1,70 @@
+// Education Section
+#education {
+  background-color: $white-color;
+  color: $dark-blue-text;
+  margin-top: -10rem;
+  padding-top: 15rem;
+
+  @include respond(tab-land) {
+    margin-top: 0;
+    padding-top: 5rem;
+  }
+
+  .education-wrapper {
+    margin-top: 3rem;
+
+    .education-item {
+      margin-bottom: 4rem;
+
+      @include respond(phone) {
+        margin-bottom: 2rem;
+      }
+    }
+
+    &__date {
+      text-align: center;
+
+      @include respond(tab-port) {
+        text-align: left;
+        margin-bottom: 1rem;
+      }
+
+      .education-date {
+        font-size: $small-font-size;
+        font-weight: bold;
+        background-color: lighten($primary-color, 40%);
+        color: $primary-color;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        display: inline-block;
+      }
+    }
+
+    &__info {
+      @include respond(tab-port) {
+        margin-left: 0;
+      }
+    }
+
+    &__title {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      font-size: $mid-font-size;
+
+      @include respond(phone) {
+        font-size: 2rem;
+      }
+    }
+
+    &__institution {
+      font-size: $default-font-size;
+      margin-bottom: 1.5rem;
+      color: lighten($dark-blue-text, 20%);
+      font-weight: 500;
+    }
+
+    &__description {
+      color: lighten($dark-blue-text, 10%);
+    }
+  }
+}

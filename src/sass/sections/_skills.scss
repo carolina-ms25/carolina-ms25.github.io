@@ -1,0 +1,56 @@
+// Skills Section
+#skills {
+  background-color: $white-color;
+  color: $dark-blue-text;
+  margin-top: -10rem;
+  padding-top: 15rem;
+
+  @include respond(tab-land) {
+    margin-top: 0;
+    padding-top: 5rem;
+  }
+
+  .skills-wrapper {
+    margin-top: 3rem;
+
+    &__category {
+      margin-bottom: 6rem;
+
+      @include respond(phone) {
+        margin-bottom: 0rem;
+      }
+
+      &-title {
+        font-weight: bold;
+        margin-bottom: 1.8rem;
+        font-size: $mid-font-size;
+
+        @include respond(phone) {
+          font-size: 2rem;
+        }
+      }
+    }
+
+    &__list {
+      list-style: none;
+      padding-left: 0;
+
+      li {
+        margin-bottom: 1rem;
+        padding: 0.5rem 1rem;
+        background-color: lighten($primary-color, 40%);
+        border-radius: 25px;
+        display: inline-block;
+        margin-right: 1rem;
+        font-weight: 500;
+        color: $primary-color;
+        
+        @include respond(phone) {
+          display: block;
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+  }
+}

@@ -1,46 +1,88 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Carolina Medina Suarez - Portfolio# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
 
-## A minimal portfolio template for Developers!
 
-<h2 align="center">
+
+## 🤖 Ingeniera en Inteligencia Artificial## A minimal portfolio template for Developers!
+
+
+
+Bienvenido a mi portfolio profesional. Soy una apasionada ingeniera en IA especializada en Machine Learning, Deep Learning y desarrollo de soluciones innovadoras.<h2 align="center">
+
   <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
 
-## Features
+### 🌐 **Ver Portfolio en Vivo**  <br>
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
+**👉 [carolina-ms25.github.io](https://carolina-ms25.github.io)**</h2>
+
+
+
+### 🚀 **Características del Portfolio**## Features
+
+
+
+- **🔬 Perfil Profesional**: Especializada en IA y Machine Learning⚡️ Modern UI Design + Reveal Animations\
+
+- **💼 Experiencia**: Proyectos reales de sistemas de recomendación, análisis de sentimientos y detección de fraude⚡️ One Page Layout\
+
+- **🎓 Educación**: Ingeniería en IA + Certificaciones de Google y AWS⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
+
+- **📝 Blog**: Artículos sobre IA, ética y optimización de modelos⚡️ Fully Responsive\
+
+- **🛠️ Habilidades**: Python, TensorFlow, PyTorch, AWS, Docker y más⚡️ Valid HTML5 & CSS3\
+
 ⚡️ Optimized with Parcel\
-⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+### 📊 **Secciones Incluidas**⚡️ Well organized documentation
 
----
 
-## Why do you need a portfolio? ☝️
 
-- Professional way to showcase your work
-- Increases your visibility and online presence
+- ✨ **Hero**: Introducción personalTo view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+
+- 👩‍💼 **Acerca de mí**: Perfil profesional en IA
+
+- 🛠️ **Habilidades**: Tecnologías y herramientas---
+
+- 🚀 **Proyectos**: Portfolio de trabajos en IA
+
+- 💼 **Experiencia**: Historial laboral## Why do you need a portfolio? ☝️
+
+- 🎓 **Estudios**: Formación y certificaciones
+
+- 📚 **Blog**: Artículos y publicaciones- Professional way to showcase your work
+
+- 📧 **Contacto**: Información de contacto- Increases your visibility and online presence
+
 - Shows you’re more than just a resume
+
+### 🔧 **Tecnologías Utilizadas**
 
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- **Frontend**: HTML5, SCSS, JavaScript
 
-### Prerequisites 📋
+- **Framework CSS**: Bootstrap 5These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+- **Build Tool**: Parcel
+
+- **Deploy**: GitHub Pages + GitHub Actions### Prerequisites 📋
+
+- **Animaciones**: ScrollReveal, Vanilla Tilt
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
 
-```
-node@v16.4.2 or higher
-npm@7.18.1 or higher
-git@2.30.1 or higher
+### 📱 **Totalmente Responsive**
+
 ```
 
+El portfolio está optimizado para todos los dispositivos: desktop, tablet y móvil.node@v16.4.2 or higher
+
+npm@7.18.1 or higher
+
+---git@2.30.1 or higher
+
+```
+
+*Portfolio desarrollado para showcasing de habilidades en Inteligencia Artificial y desarrollo web.*
 Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
 
 ```
